@@ -14,18 +14,18 @@ class IdentityRunner{
 	  Identity.printName("Prajwal Veerapur");
 	  Identity.printName("Shriyaan Veerapur");
 		
-	  Identity.printlnNameAndEmail("Arun Veerapur","Arun Veerapur.arunbv.xworkz@gmail.com");
-	  Identity.printlnNameAndEmail("Shivu Veerapur","Arun Veerapur.arunbv.xworkz@gmail.com");
-	  Identity.printlnNameAndEmail("Sunil Veerapur","Arun Veerapur.arunbv.xworkz@gmail.com");
-	  Identity.printlnNameAndEmail("Chetan Veerapur","Arun Veerapur.arunbv.xworkz@gmail.com");
-	  Identity.printlnNameAndEmail("Sachin Veerapur","Arun Veerapur.arunbv.xworkz@gmail.com");
-	  Identity.printlnNameAndEmail("Tataji Veerapur","Arun Veerapur.arunbv.xworkz@gmail.com");
-	  Identity.printlnNameAndEmail("Shriyaan Veerapur","Arun Veerapur.arunbv.xworkz@gmail.com");
-	  Identity.printlnNameAndEmail("KArthik Veerapur","Arun Veerapur.arunbv.xworkz@gmail.com");
-	  Identity.printlnNameAndEmail("Prajwal Veerapur","Arun Veerapur.arunbv.xworkz@gmail.com");
-	  Identity.printlnNameAndEmail("Shriyaan Veerapur","Arun Veerapur.arunbv.xworkz@gmail.com");
-	  Identity.printlnNameAndEmail("Ravi Veerapur","Arun Veerapur.arunbv.xworkz@gmail.com");
-	  Identity.printlnNameAndEmail("Naveen Veerapur","Arun Veerapur.arunbv.xworkz@gmail.com");
+	  Identity.printlnNameAndEmail("Arun Veerapur","arunbv.xworkz@gmail.com");
+	  Identity.printlnNameAndEmail("Shivu Veerapur","arunbv.xworkz@gmail.com");
+	  Identity.printlnNameAndEmail("Sunil Veerapur","arunbv.xworkz@gmail.com");
+	  Identity.printlnNameAndEmail("Chetan Veerapur","arunbv.xworkz@gmail.com");
+	  Identity.printlnNameAndEmail("Sachin Veerapur","arunbv.xworkz@gmail.com");
+	  Identity.printlnNameAndEmail("Tataji Veerapur","arunbv.xworkz@gmail.com");
+	  Identity.printlnNameAndEmail("Shriyaan Veerapur","arunbv.xworkz@gmail.com");
+	  Identity.printlnNameAndEmail("KArthik Veerapur","arunbv.xworkz@gmail.com");
+	  Identity.printlnNameAndEmail("Prajwal Veerapur","arunbv.xworkz@gmail.com");
+	  Identity.printlnNameAndEmail("Shriyaan Veerapur","arunbv.xworkz@gmail.com");
+	  Identity.printlnNameAndEmail("Ravi Veerapur","arunbv.xworkz@gmail.com");
+	  Identity.printlnNameAndEmail("Naveen Veerapur","arunbv.xworkz@gmail.com");
 	  
 	  Identity.printlNameAndMobile("Arun Veerapur",9620753670L);
 	  Identity.printlNameAndMobile("Arun Veerapur",9620753670L);
